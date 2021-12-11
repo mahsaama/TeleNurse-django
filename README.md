@@ -1,7 +1,21 @@
 # TeleNurse
 
+40418 - System Analysis & Design
+
+## Description
+
 Telenurse is a logistic project for providing healthcare and nursing.
 It will be very useful to have an integrated system so that both job seekers and people who need nursing and medical services at home can use it and communicate easily with each other. In order to ensure the users of this system, this system should be implemented in such a way that the supervisors and managers in the support center are always aware of the status of all nurses and if there is a problem, they will deal with it as soon as possible.
+
+### Contributers
+
+| Name	         |Student_Number|
+|----------------|--------------|
+| Mahsa Amani	   |97105769      |
+| Bahar Khodabakhshian|97105906   |
+| Dorna Dehghani |97105939      |
+| Tarlan Bahadori|97105809      |
+
 
 ### How to run the project
 
